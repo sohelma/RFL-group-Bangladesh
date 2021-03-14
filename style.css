@@ -1,0 +1,145 @@
+*{padding:0;
+margin:0;};
+
+.material-icons{color:#3B579D;background:red}
+.fab fa-facebook{color:#3B579D;background:rgb(134, 129, 129)}
+.fab fa-linkedin icon{}
+.fab fa-twitter-square icon{background: black;}
+.fab fa-youtube-square icon{}
+/* 1stpart */
+.firstrightside{display:inline-block}
+.logo{padding-left:99px;}
+.iconmenu{}
+.iconmenu span:hover{background:white}
+.iconmenu ul{}
+.iconmenu ul li{display: inline-block;}
+.iconmenu ul li a{padding: 0px 8px;
+  font-size: 20px;}
+.iconmenu ul li a :hover{}
+.bottom{padding:10px 20px;
+font-size: 10px;}
+.menu{}
+.menu ul{}
+.menu ul li{display:inline-block;
+  padding: 6px 60px;
+  /* background: lightgray; */
+  border-right: 1px solid silver;
+}
+.menu ul li a{text-decoration: none;
+color:black;
+font-weight: bold;
+font-size: 12px;
+margin-left: 13px;}
+.menu ul li a:hover{color:red}
+.button a{ background: red;
+  border-radius: 13px;
+  font-size: 11px;
+  padding: 7px 14px;
+  text-decoration: none;
+  color: white;
+}
+.button a:hover{background:white;
+  color:black;
+  border:1px solid white;
+  box-shadow: 0px 1px 6px lightgray;
+}
+.secondpart{background:rgb(252, 250, 250);
+  padding: 0 120px;}
+
+/* 4th part start  */
+.fourthpart{background:#333333;
+color:lightgrey;
+text-align: center;
+padding:22px 0px;
+margin: 0 12px;}
+.square{padding: 0px 58px;}
+.fourthpart h2{font-size: 43px;
+border-bottom: 1px solid lightgrey;
+padding: 2px 12px;}
+.fourthpart h6{
+  
+  }
+  
+/* 5th part start  */
+.fifthpart {text-align: center;
+  padding: 16px 440px;}
+  .fifthpart h2{border-bottom: 1px solid grey;
+    padding: 16px}
+
+/* 6th part start  */
+  .sixthpart {text-align: center;}
+  .sixthpart img:hover {border: 3px solid white;}
+  .sixthpart p {color:grey;
+  font-weight: bold;}
+
+/* 7th part start  */
+  .seventhpart{text-align: center;}
+.card-body p{text-align: justify;
+  color: gray;}
+  .btn:hover{background:crimson;
+  }
+
+  /* 9th part start  */
+
+  .boxx h2{ text-align: center;
+    border-bottom: 1px solid lightgray;
+    padding: 11px 10px;
+    color: gray;
+}
+
+  .boxx{    padding: 15px 467px;
+    
+}
+
+  /*  10thpart start  */
+.tenpart{text-align:center;
+color:white}
+.tena{padding: 57px 30px;}
+.tenb{padding: 70px 10px;
+  margin-left: 93px;}
+.tenpart p{}
+/*  10thpart end  */
+/*  eleventh start*/
+.eleventh{}
+.eleventh img{width: 100%;
+  display: block;}
+
+  .twelve img{width: 100%;}
+  /*  thirteen start*/
+  .thirteen{text-align: left;
+    background:#001021}
+  .thirteen h4{color:white;
+    text-align: left;}
+  .thirteen ul{text-decoration: none;}
+  .thirteen ul li{text-decoration: none;
+  }
+  .list-unstyled {
+    list-style: none;}
+  .thirteen a{color: white;
+    text-decoration: none;
+    text-align: left;
+    padding: 0px 11px;
+    font-size: 15px;
+  }
+  .thirteen a:hover{color:red}
+
+.thirteen.box{text-align: left;}
+
+  /* fourteen */
+  .fourteen{border-top:1px solid grey;
+    background:#001021}
+  .fourteen img{width: 115px;
+    padding-top: 29px;}
+  .fourteen h4,p{color:white;
+   }
+  .fourteen a{color:white}
+  .logoimg{text-align: center;}
+  
+  .left{
+    padding: 39px;
+    text-align: justify;
+}
+  
+  .right{  padding: 39px;
+    text-align: justify;
+}
