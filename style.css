@@ -83,12 +83,11 @@ padding: 2px 12px;}
 
   .boxx h2{ text-align: center;
     border-bottom: 1px solid lightgray;
-    padding: 11px 10px;
+    padding: 11px 0px;
     color: gray;
 }
 
-  .boxx{    padding: 15px 467px;
-    
+  .boxx{ padding: 15px 467px;
 }
 
   /*  10thpart start  */
@@ -96,7 +95,8 @@ padding: 2px 12px;}
 color:white}
 .tena{padding: 57px 30px;}
 .tenb{padding: 70px 10px;
-  margin-left: 93px;}
+  /* margin-left: 93px; */
+}
 .tenpart p{}
 /*  10thpart end  */
 /*  eleventh start*/
