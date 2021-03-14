@@ -93,7 +93,9 @@ padding: 2px 12px;}
   /*  10thpart start  */
 .tenpart{text-align:center;
 color:white}
-.tena{padding: 57px 30px;}
+.tena{padding: 57px 30px;
+  margin-right: 90px;}
+
 .tenb{padding: 70px 10px;
   /* margin-left: 93px; */
 }
